@@ -1,7 +1,7 @@
 # 🐾 Pet Adoption Website
 
 A simple **pet adoption portal** where visitors can explore available pets, learn about the adoption process, and get involved by donating, volunteering, or attending events.  
-Built with **HTML, CSS, and JavaScript**.
+Built with **HTML and CSS**.
 
 ---
 
