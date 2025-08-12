@@ -9,7 +9,7 @@ Built with **HTML and CSS**.
 - Responsive sidebar navigation with quick access to key sections.
 - "Available Pets" opens in a **new tab** to view detailed listings.
 - Clean, minimal design using **Poppins** font and **Font Awesome** icons.
-- Organized folder structure (`pages/`, `css/`, `js/`) for scalability.
+- Organized folder structure (`pages/`, `css/`) for scalability.
 - Live Server–ready for local development.
 
 ---
